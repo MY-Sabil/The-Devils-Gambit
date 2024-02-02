@@ -1,6 +1,6 @@
 # The Devil's Gambit
 
-![](https://images2.imgbox.com/d4/ca/R9WaQ9iJ_o.png)
+![](https://i.ibb.co/Cvm4jVt/header-banner.png)
 
 The Devil's Gambit is a bingo style math game for Wanna x Yam Game Jam 2022.
 
