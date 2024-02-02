@@ -1,5 +1,7 @@
 # The Devil's Gambit
 
+![](https://images2.imgbox.com/d4/ca/R9WaQ9iJ_o.png)
+
 The Devil's Gambit is a bingo style math game for Wanna x Yam Game Jam 2022.
 
 How to Play: Drag and Drop numbers (from the right grid) and operators (top left grid) in the equation slots at the bottom of the screen to combine numbers and create an answer. If any of your answers matches one of the numbers in the middle grid, your score will increase. But beware, because time is not on your side. And the devil is literally evil, so he'll try to make this harder after you reach a certain score.
